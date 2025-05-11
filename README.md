@@ -52,7 +52,7 @@ This task is designed to evaluate your real-world skills in building a backend m
 
 ### Installation
 ```bash
-git clone git@github.com:Khemendra-Bhardwaj/PostAggregator-Micro-service.git
+git clone git@github.com:ayushtjsr/PostAggregator-Micro-service.git
 cd post-aggregator
 make up  # or docker-compose up --build
 ```
